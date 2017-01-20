@@ -3,8 +3,16 @@
 - [ ] Sign employment contract and/or NDA
 - [ ] [Google Apps](https://admin.google.com/AdminHome#Home: "Google Apps") Account [TIM]
 - [ ] [Slack](https://admin.google.com/AdminHome#Home: "Slack") Account [TIM]
-- [ ] [Asana](https://app.asana.com "Asana") Account [TIM]
+- [ ] [Pivotal Tracker](https://www.pivotaltracker.com/dashboard "Pivotal Tracker") Account [TIM]
+- [ ] [Email Distros](https://groups.google.com/a/kidfund.us/forum/#!homeredir "Email Distros") (Company, Reading) [TIM]
+- [ ] [Shared Calendars](https://calendar.google.com/calendar/render "Shared Calendars") (Tardis) [TIM]
 - [ ] Setup laptop [TIM]
+
+## Engineering
+
+- [ ] [Buddy Build](https://dashboard.buddybuild.com/apps/570e9569b9c4970100dc3203 "Buddy Build") (App CI) [TIM]
+- [ ] [Scrutinizer](https://scrutinizer-ci.com/ "Scrutinizer") (Web CI) [TIM]
+- [ ] [Fabric](https://fabric.io/home "Fabric") (App distro and crash reporting) [TIM]
 
 # First Day
 
